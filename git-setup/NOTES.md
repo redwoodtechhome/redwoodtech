@@ -22,7 +22,7 @@
 7.  `git config --global core.editor nano`
 8.  `git init`
 9.  `git config --global init.defaultBranch main`
-10. `git remote add origin ssh://<user>@<remote_host>/<remote_repository_path>
+10. `git remote add origin ssh://<user>@<remote_host>/<remote_repository_path>`
 11. `nano note1.txt` (Type any text then use, Ctrl+O, Ctrl+X)
 12. `git add .`
 13. `git commit -a -m 'Initial commit.'`
